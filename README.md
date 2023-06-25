@@ -1,4 +1,6 @@
-# speech_assistant_app_apk
+# Speech Assistant App
+### [Click Here](https://github.com/mortadha1144/speech_assistant_app_apk/blob/master/speech_assitant_app.apk) to download apk file .
+
 It is an app built by Flutter to help people with speech difficulties, as it relies on (AAC) tools, which is an acronym for the term (Augmentative and Alternative Communication), which are communication devices, systems, strategies, and tools that replace natural speech.
 
 Where the application uses special symbols prepared for this field that are understood by the child to express his condition, and when this symbol is chosen by the child, the application converts the text of this symbol into words that are understood by the people close to the child and provide the required need from the child. The application also contains the feature of writing sentences By the user and converting them into speech, and the application provides the feature of saving symbols and sentences written by the user in order to use them later instead of writing them again, which provides an easy and comfortable use experience with the ability to install the required sentences in the foreground.
