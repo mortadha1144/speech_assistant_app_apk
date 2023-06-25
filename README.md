@@ -29,5 +29,6 @@ Sceenshots from App :
 - Settings Screen<br/><br/>
 <img src="https://github.com/mortadha1144/speech_assistant_app_apk/assets/105784062/94cab022-38a6-410f-a462-7e427e2c68e2" width="200" height="400"><br/><br/>
 
-
-
+- About us & About app<br/><br/>
+<img src="https://github.com/mortadha1144/speech_assistant_app_apk/assets/105784062/eaa63a6c-c8d7-420c-bbc0-2eefd672265d" width="200" height="400">
+<img src="https://github.com/mortadha1144/speech_assistant_app_apk/assets/105784062/907e2e24-f962-476c-b678-5adbb3fe5b21" width="200" height="400"><br/><br/>
