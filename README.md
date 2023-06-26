@@ -5,7 +5,7 @@ It is an app built by Flutter to help people with speech difficulties, as it rel
 
 Where the application uses special symbols prepared for this field that are understood by the child to express his condition, and when this symbol is chosen by the child, the application converts the text of this symbol into words that are understood by the people close to the child and provide the required need from the child. The application also contains the feature of writing sentences By the user and converting them into speech, and the application provides the feature of saving symbols and sentences written by the user in order to use them later instead of writing them again, which provides an easy and comfortable use experience with the ability to install the required sentences in the foreground.
 
-The application was part of the (Code For Iraq) initiative, which is a humanitarian, non-profit initiative that aims to serve the community by using technology. (Code For Iraq) is a real educational initiative that sponsors those interested in learning the design and programming of mobile applications, websites, computer programs, networks, communications, and Computer operating systems using open source technologies, as well as providing them with all the necessary educational lessons for free.
+The application was part of the (Code For Iraq) initiative, which is a humanitarian, non-profit initiative that aims to serve the community by using technology.
 
 The application is built using Flutter and the tools used in the application are :
 - Multiple categories to display symbols
