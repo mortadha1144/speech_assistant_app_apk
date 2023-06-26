@@ -7,7 +7,7 @@ Where the application uses special symbols prepared for this field that are unde
 
 The application was part of the (Code For Iraq) initiative, which is a humanitarian, non-profit initiative that aims to serve the community by using technology.
 
-The application is built using Flutter and the tools used in the application are :
+The application is built using Flutter and contains the following features :
 - Multiple categories to display symbols
 - Text-to-speech feature (TTS)
 - Hive Database to save the data
